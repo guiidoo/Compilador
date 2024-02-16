@@ -1,2 +1,2 @@
 # Compilador
-Compilador simples
+Compilador simples ANTLR
